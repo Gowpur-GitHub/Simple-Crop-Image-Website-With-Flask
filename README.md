@@ -27,5 +27,5 @@ Berikut garis besar tahapan implementasi webnya:
 
 4. Ini adalah hasil dari gambar yang sudah dicrop, gambar akan tampil sesuai pengaturan yang diatur dihalaman pengaturan tadi sebelumnya.
 
-
+<br>
 ## Terima kasih
