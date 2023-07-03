@@ -15,9 +15,9 @@ Berikut garis besar tahapan implementasi webnya:
 >Terdapat 9 pengaturan posisi yaitu : Top left, Top center, Top right, Center left, Center, Center right, Bottom left, Bottom center, Bottom right.
 
 ![image](https://github.com/Gowpur-GitHub/Simple-Crop-Image-Website-With-Flask/assets/133848555/10dea78e-b3d0-4af3-8c14-ce985eee7073)
-jangan lupa buat validasi apabila size melebihi ukuran gambar yang diupload . untuk tampilan validasinya bebas. lalu outputnya kira-kira seperti ini
+3. Ini contohnya dengan size : 700 x 700 dan position : center, maka akan dihasilkan gambar crop seperti dibawah.
 
 ![image](https://github.com/Gowpur-GitHub/Simple-Crop-Image-Website-With-Flask/assets/133848555/35b17e75-64aa-4bb3-b5ed-c0cf6803ff39)
-Akan tampil gambar sesuai dengan posisi dan ukurannya.
+4. Ini adalah hasil dari gambar yang sudah dicrop, gambar akan tampil sesuai pengaturan yang diatur dihalaman pengaturan tadi sebelumnya.
 
-
+## Terima kasih
