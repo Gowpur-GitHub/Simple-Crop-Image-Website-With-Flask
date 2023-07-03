@@ -1,4 +1,4 @@
-# Simple-Crop-Image-Website-With-Flask
+# KOMPUTER GRAFIK
 
 ## Tugas Uas AkhysanalGowpur 201011400526 06TPLE012
 
