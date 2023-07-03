@@ -15,9 +15,7 @@ Berikut garis besar tahapan implementasi webnya:
 
 ![image](https://github.com/Gowpur-GitHub/Simple-Crop-Image-Website-With-Flask/assets/133848555/b6275b49-423c-4403-a689-1a93ec42b7a0)
 
-2. Setelah upload gambar tadi langsung menuju halaman form pengaturan gambar, disini dapat mengatur mulai dari size dan position nya sesuai kebutuhan kita.
-
->>>Terdapat 9 pengaturan posisi yaitu : Top left, Top center, Top right, Center left, Center, Center right, Bottom left, Bottom center, Bottom right.
+2. Setelah upload gambar tadi langsung menuju halaman form pengaturan gambar, disini dapat mengatur mulai dari size dan position nya sesuai kebutuhan kita. Terdapat 9 pengaturan posisi yaitu : Top left, Top center, Top right, Center left, Center, Center right, Bottom left, Bottom center, Bottom right.
 
 
 ![image](https://github.com/Gowpur-GitHub/Simple-Crop-Image-Website-With-Flask/assets/133848555/10dea78e-b3d0-4af3-8c14-ce985eee7073)
