@@ -1,7 +1,8 @@
 # Simple-Crop-Image-Website-With-Flask
 
-Tugas Uas
-Implementasikan function yang anda buat sebelumnya dalam aplikasi web
+Tugas Uas AkhysanalGowpur 201011400526 06TPLE012
+Implementasi Function Dalam Aplikasi Web
+Python Flask Website Crop Image
 
 Cara kerja
 Berikut garis besar tahapan implementasi webnya:
