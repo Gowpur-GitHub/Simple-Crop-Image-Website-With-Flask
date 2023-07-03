@@ -8,10 +8,11 @@ Implementasi Function Dalam Aplikasi Web Dengan Flask
 Berikut garis besar tahapan implementasi webnya:
 
 ![image](https://github.com/Gowpur-GitHub/Simple-Crop-Image-Website-With-Flask/assets/133848555/3dbc1449-120a-40fc-bfff-0080954e0f14)
-Pertama-tama upload gambar dari halaman di atas. Setelah itu pilih file gambar berupa .jpg atau .png lalu klik submit. sehingga gambar diupload dan dapat ditampilkan.
+1. Pertama, upload sebuah gambar di halaman utama seperti di atas. Lalu pilih file gambar berupa .jpg atau .png dan klik submit sehingga gambar diupload dan nama filenya ditampilkan di form.
 
 ![image](https://github.com/Gowpur-GitHub/Simple-Crop-Image-Website-With-Flask/assets/133848555/b6275b49-423c-4403-a689-1a93ec42b7a0)
-lalu masukkan size, dan plih posisi gambar misal top_center, bottom_left dll
+2. Setelah upload gambar tadi langsung menuju halaman form pengaturan gambar, disini dapat mengatur mulai dari size dan position nya sesuai kebutuhan kita.<br>
+>Terdapat 9 pengaturan posisi yaitu : Top left, Top center, Top right, Center left, Center, Center right, Bottom left, Bottom center, Bottom right.
 
 ![image](https://github.com/Gowpur-GitHub/Simple-Crop-Image-Website-With-Flask/assets/133848555/10dea78e-b3d0-4af3-8c14-ce985eee7073)
 jangan lupa buat validasi apabila size melebihi ukuran gambar yang diupload . untuk tampilan validasinya bebas. lalu outputnya kira-kira seperti ini
