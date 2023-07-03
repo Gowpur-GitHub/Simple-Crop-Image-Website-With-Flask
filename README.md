@@ -25,7 +25,10 @@ Berikut garis besar tahapan implementasi webnya:
 
 ![image](https://github.com/Gowpur-GitHub/Simple-Crop-Image-Website-With-Flask/assets/133848555/35b17e75-64aa-4bb3-b5ed-c0cf6803ff39)
 
-4. Ini adalah hasil dari gambar yang sudah dicrop, gambar akan tampil sesuai pengaturan yang diatur dihalaman pengaturan tadi sebelumnya.<br>
+4. Ini adalah hasil dari gambar yang sudah dicrop, gambar akan tampil sesuai pengaturan yang diatur dihalaman pengaturan tadi sebelumnya.
+
+
+
 
 
 ## Terima kasih
